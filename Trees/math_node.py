@@ -1,8 +1,7 @@
 """
-CSCI-603 Parser Lab
+
 Author: Sean Strout @ RIT CS
-Author: Aditya Pulekar
-Author: Mandar Badave
+Author: Aditya Pulekar 
 
 A math expression is of the prefix form:
 

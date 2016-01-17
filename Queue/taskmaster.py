@@ -2,8 +2,8 @@
 taskmaster.py
 
 Demonstrate stack- or queue-based task lists.
-author: James Heliotis
 author: Aditya Pulekar
+author: James Heliotis
 """
 
 # Uncomment exactly one of the next two lines. Don't change anything else.

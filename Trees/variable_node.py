@@ -1,5 +1,5 @@
 """
-CSCI-603 Parser Lab
+
 Author: Sean Strout @ RIT CS
 Author: Aditya Pulekar
 Author: Mandar Badave

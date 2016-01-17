@@ -1,9 +1,9 @@
 """
-CSCI-603 PreTee Lab
+ 
 Author: Sean Strout @ RIT CS
 Author: Aditya Pulekar
 
-The main program and class for a prefix expression interpreter of the
+ The main program and class for a prefix expression interpreter of the
 PreTee language.
 
 Usage: python3 pretee.py source-file.pre

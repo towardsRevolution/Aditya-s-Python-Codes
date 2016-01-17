@@ -1,5 +1,4 @@
 """
-CSCI-603 Parser Lab
 Author: Sean Strout @ RIT CS
 
 An assignment statement is of the prefix form:

@@ -1,3 +1,7 @@
+"""
+Author: Aditya Pulekar
+
+"""
 class Vertex :
     __slots__ = 'key','connectsTo'
 

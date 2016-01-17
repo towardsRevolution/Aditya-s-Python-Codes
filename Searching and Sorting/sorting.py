@@ -1,4 +1,4 @@
-__author__ = 'Addy'
+__author__ = 'Aditya Pulekar'
 
 def SelectionS(vals):
     #Selection sort (Just the way we would sort the numbers...i.e by choosing the smallest and placing it first)

@@ -1,8 +1,5 @@
-__author__= 'Aditya Pulekar','Mandar Badave'
+__author__= 'Aditya Pulekar'
 """
-CSCI-603: Lab 2-1
-Author: Aditya Pulekar , Mandar Badave
-
 This is a program that draws trees and a house on PyCharm console (Python
 Turtle Graphics)& calculates the total units of wood obtained from the trunks
 of the trees and the house drawn during the night and, then, builds a new house during the day on the console which

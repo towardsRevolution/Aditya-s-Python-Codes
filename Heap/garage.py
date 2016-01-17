@@ -4,7 +4,6 @@ using heaps
 """
 
 __author__ = 'Aditya Pulekar'
-__author__ = 'Mandar Badave'
 
 import Heap
 

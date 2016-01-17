@@ -1,4 +1,4 @@
-__author__ = 'Addy'
+__author__ = 'Aditya Pulekar'
 
 #In total 4 recursive calls
 def listSum (aList):

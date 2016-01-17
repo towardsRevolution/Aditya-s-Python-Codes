@@ -5,7 +5,7 @@ that demonstrates how bitcoin mining works.  It performs only a single
 pass of the SHA-256 algorithm to encrypt the first 32 bits of data.
 
 Author: Sean Strout @ RIT CS
-Author: <<< Aditya Pulekar, Mandar Badave>>
+Author: Aditya Pulekar
 """
 
 # constants

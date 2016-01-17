@@ -1,4 +1,4 @@
-__author__ = 'Addy'
+__author__ = 'Aditya Pulekar'
 import turtle, random
 def drawTree(n,size):
     if(n>0):

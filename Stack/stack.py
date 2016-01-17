@@ -1,4 +1,5 @@
-__author__ = 'Addy'
+__author__: "Aditya Pulekar"
+
 import node
 class Stack:
     __slots__="top"

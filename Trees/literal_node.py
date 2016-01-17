@@ -1,8 +1,5 @@
-"""
-CSCI-603 Parser Lab
-Author: Sean Strout @ RIT CS
-Author: Aditya Pulekar
-Author: Mandar Badave
+""" Sean Strout @ RIT CS
+Author: Aditya Pulekar 
 
 A literal expression is of the prefix form, where {value} is an integer:
 

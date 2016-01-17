@@ -3,7 +3,7 @@ file: tests.py
 description: Verify the LinkedHashTable class implementation
 """
 
-__author__ = [ "Aditya Pulekar", "Mandar Badave" ]
+__author__ = "Aditya Pulekar" 
 
 from linkedhashtable import LinkedHashTable
 

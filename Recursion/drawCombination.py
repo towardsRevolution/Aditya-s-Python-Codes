@@ -1,4 +1,4 @@
-__author__ = 'Addy'
+__author__ = 'Aditya Pulekar'
 def drawCombination(n,k):
     if(k==0 or k==n or n==1):
         return 1

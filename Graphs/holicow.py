@@ -4,7 +4,6 @@ It, then, performs the coloring of the cows as per the triggering of the paintba
 occurs as per the neighbors of the individual vertices in the graph.
 
 Author: Aditya Pulekar
-Author: Mandar Badave
 """
 
 import sys                      #argv

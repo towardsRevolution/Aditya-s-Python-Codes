@@ -4,7 +4,6 @@ selection sort program we had implemented in the lecture and has been
 implemented from scratch by us
 """
 __author__ = 'Aditya Pulekar'
-__author__ = 'Mandar Badave'
 
 
 def SortList(toSort):

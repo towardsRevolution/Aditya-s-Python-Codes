@@ -3,7 +3,6 @@ This program designs a laser puzzle. It gives the user the best possible laser p
 analyzing the laser grid.
 """
 __author__ = 'Aditya Pulekar'
-__author__ = 'Mandar Badave'
 
 #Importing the python file with the sorting code from the same package
 import SelectionSort

@@ -1,3 +1,4 @@
+__author__ : "Aditya Pulekar"
 
 from BTNode2 import BTNode
 

@@ -1,3 +1,6 @@
+"""
+Author: Aditya Pulekar
+"""
 from vertex2 import Vertex
 
 class Graph:

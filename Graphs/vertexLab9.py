@@ -1,8 +1,7 @@
 """
-CSCI-603: Graphs
-Author: Sean Strout @ RIT CS
 Author: Aditya Pulekar
-Author: Mandar Badave
+Author: Sean Strout @ RIT CS
+
 
 An implementation of a vertex as part of a graph.
 
