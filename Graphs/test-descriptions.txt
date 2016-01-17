@@ -1,0 +1,15 @@
+**NOTE: Every new addition/alteration in the test files (i.e. test1,test2 and test3) is with respect to the "CowsNPaintBalls.txt" file
+
+1). test1.txt : Coordinates of the cows and paintballs are interchanged amongst
+                themselves, just the coordinates of YELLOW are altered to a new set
+                of coordinates. Also, a cow is added at a new coordinate.
+
+2). test2.txt : Coordinates of the cows and paintballs remain the same, just the coordinates of
+                YELLOW are altered to a new set of coordinates. Also, another
+                paintball (with a different color) and a cow are added at two new coordinates.
+                (Note: In this case, the newly added paintball paints the cows).
+
+3). test3.txt : Coordinates of YELLOW are altered to a new set of coordinates. Also, two cows and
+                a paintball are added at a new set of coordinates. However, the paintball (PURPLE,
+                in this case) is added at a location from which it will neither trigger another paintball
+                nor will it paint any cow.
