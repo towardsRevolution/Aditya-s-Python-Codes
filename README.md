@@ -1,2 +1,2 @@
 # Aditya-s-Python-Codes
-Written during the 1st Sem at RIT.
+These python codes focus on using different data structures to solve some real-world problems. 
